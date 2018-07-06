@@ -1,3 +1,6 @@
+/*
+	Aluno: Erick Ricardo Budal
+*/
 public class DesafioValendoPonto {
 	
 	public static void main(String[] args) {
